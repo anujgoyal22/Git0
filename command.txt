@@ -1,0 +1,2 @@
+git remote add origin https://github.com/anujgoyal22/Git0.git
+git push --set-upstream origin master
