@@ -1,3 +1,10 @@
+git branch
+git status
+git add
+git add --all
+git commit -m 
+git checkout
+git checkout -b
 Getting Started-----------
 git remote add origin https://github.com/anujgoyal22/Git0.git
 git push --set-upstream origin master
@@ -7,6 +14,8 @@ git status
 git log origin/master
 git diff origin/master
 Merge-------------
+git checkout master
+git merge <branch name>
 git merge origin/master
 git status
 Git Pull
