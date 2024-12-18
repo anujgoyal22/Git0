@@ -1,2 +1,13 @@
+Getting Started-----------
 git remote add origin https://github.com/anujgoyal22/Git0.git
 git push --set-upstream origin master
+Pulling to Keep up-to-date with Changes---------------------
+git fetch origin
+git status
+git log origin/master
+git diff origin/master
+Merge-------------
+git merge origin/master
+git status
+Git Pull
+git pull origin
