@@ -22,3 +22,4 @@ Git Pull
 git pull origin
 -------------------------------------
 git commit -a -m "Updated index.html. Resized image"
+git push origin
